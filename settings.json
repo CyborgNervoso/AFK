@@ -28,7 +28,7 @@
     "chat-messages": {
       "enabled": true,
       "repeat": true,
-      "repeat-delay": 500,
+      "repeat-delay": 300,
       "messages": [
         "I love Minecraft!",
         "Yooo!",
@@ -38,7 +38,7 @@
         "Laura + Lego",
         "Ayooo!",
         "My name is fucking mimic oh yeah",
-        "I am the secret of the fucking mimic",
+        "I am the secret of the fucking mimic"
       ]
     },
     "chat-log": true,
